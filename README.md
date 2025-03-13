@@ -1,2 +1,2 @@
-# ScrumConts
-Sistema Scrum Conts - Scrum Controle de Tarefas desenvolvido em framework Laravel PHP
+# Irede projects
+Atividades, projetos desenvolvidos durante a residência no Irede
